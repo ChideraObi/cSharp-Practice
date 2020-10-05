@@ -1,0 +1,11 @@
+/Users/chideraobinali/Desktop/LC101_Work/csharp-practice/chapter1_intro_setup/Exercise_1_Data_Types/Exercise_1_Data_Types/bin/Release/netcoreapp3.1/Exercise_1_Data_Types.deps.json
+/Users/chideraobinali/Desktop/LC101_Work/csharp-practice/chapter1_intro_setup/Exercise_1_Data_Types/Exercise_1_Data_Types/bin/Release/netcoreapp3.1/Exercise_1_Data_Types.runtimeconfig.json
+/Users/chideraobinali/Desktop/LC101_Work/csharp-practice/chapter1_intro_setup/Exercise_1_Data_Types/Exercise_1_Data_Types/bin/Release/netcoreapp3.1/Exercise_1_Data_Types.runtimeconfig.dev.json
+/Users/chideraobinali/Desktop/LC101_Work/csharp-practice/chapter1_intro_setup/Exercise_1_Data_Types/Exercise_1_Data_Types/bin/Release/netcoreapp3.1/Exercise_1_Data_Types.dll
+/Users/chideraobinali/Desktop/LC101_Work/csharp-practice/chapter1_intro_setup/Exercise_1_Data_Types/Exercise_1_Data_Types/bin/Release/netcoreapp3.1/Exercise_1_Data_Types.pdb
+/Users/chideraobinali/Desktop/LC101_Work/csharp-practice/chapter1_intro_setup/Exercise_1_Data_Types/Exercise_1_Data_Types/obj/Release/netcoreapp3.1/Exercise_1_Data_Types.AssemblyInfoInputs.cache
+/Users/chideraobinali/Desktop/LC101_Work/csharp-practice/chapter1_intro_setup/Exercise_1_Data_Types/Exercise_1_Data_Types/obj/Release/netcoreapp3.1/Exercise_1_Data_Types.AssemblyInfo.cs
+/Users/chideraobinali/Desktop/LC101_Work/csharp-practice/chapter1_intro_setup/Exercise_1_Data_Types/Exercise_1_Data_Types/obj/Release/netcoreapp3.1/Exercise_1_Data_Types.csproj.CoreCompileInputs.cache
+/Users/chideraobinali/Desktop/LC101_Work/csharp-practice/chapter1_intro_setup/Exercise_1_Data_Types/Exercise_1_Data_Types/obj/Release/netcoreapp3.1/Exercise_1_Data_Types.dll
+/Users/chideraobinali/Desktop/LC101_Work/csharp-practice/chapter1_intro_setup/Exercise_1_Data_Types/Exercise_1_Data_Types/obj/Release/netcoreapp3.1/Exercise_1_Data_Types.pdb
+/Users/chideraobinali/Desktop/LC101_Work/csharp-practice/chapter1_intro_setup/Exercise_1_Data_Types/Exercise_1_Data_Types/obj/Release/netcoreapp3.1/Exercise_1_Data_Types.genruntimeconfig.cache
